@@ -3,9 +3,9 @@
 
 
 ## Olá, eu sou Adilson Soares
-- 💬 Estudioso de idiomas
+- 💬 Estudioso de idiomas e programação
 - 📫 O estudo sempre será meu FOCO
-- 😄 Amo tocar guitarra!!!
+- 😄 Design por paixão
 - ⚡ Fanático por Rock
 -->
  <div>
