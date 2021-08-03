@@ -3,7 +3,7 @@
 
 
 ## Olá, eu sou Adilson Soares
-- 💬 Aficcionado por idiomas e programação
+- 💬 Aficionado por idiomas e programação
 - 📫 O estudo sempre será meu FOCO
 - 😄 Designer por paixão
 - ⚡ Fanático por Rock
