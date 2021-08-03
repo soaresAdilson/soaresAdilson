@@ -7,7 +7,7 @@
 - 📫 O estudo sempre será meu FOCO
 - 😄 Designer por paixão
 - ⚡ Fanático por Rock
--->
+##
  <div>
   <a href="https://github.com/soaresAdilson">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=soaresAdilson&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
