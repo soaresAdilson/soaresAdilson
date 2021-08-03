@@ -3,10 +3,10 @@
 
 
 ## Olá, eu sou Adilson Soares
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Estudioso de idiomas
+- 📫 O estudo sempre será meu FOCO
+- 😄 Amo tocar guitarra!!!
+- ⚡ Fanático por Rock
 -->
  <div>
   <a href="https://github.com/rafaballerini">
